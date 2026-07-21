@@ -21,7 +21,7 @@ editions:
 - short: X
 assets:
   parts:
-  - {seq: 0, filename: KR6i0347_000.yaml, hash: 'sha256:e2ddd369e9fba3536c6b13608f59a785c43337bf3d2d55a2cb4afc628cdabab1'}
+  - {seq: 0, filename: KR6i0347_000.yaml, hash: 'sha256:50ee94b2599f47cfd98663fd45a7ac213d6c8c4710a681f5c370ce24cdadc070'}
   - {seq: 1, filename: KR6i0347_001.yaml, hash: 'sha256:2221bd2560f6e6160f99ab62912d16aa72a0ac4922904f3eb922f17db1fa1096'}
   - {seq: 2, filename: KR6i0347_002.yaml, hash: 'sha256:ef4381db507374eb4d1e007b7bf922908db6214b837a3a396db98d4bb4ad7b14'}
   - {seq: 3, filename: KR6i0347_003.yaml, hash: 'sha256:addfcca09bab2ac288e470255e085b407a87c9c1efc448e1205bc603b099bd1b'}
@@ -31,7 +31,7 @@ assets:
   - {seq: 7, filename: KR6i0347_007.yaml, hash: 'sha256:33049f7937bda4c00556af63c2486a3d7e9f8722d6e222438d4b58427b85223f'}
   - {seq: 8, filename: KR6i0347_008.yaml, hash: 'sha256:9f02e062beca6040da565b03e9bc4f56333fb4e298883ac318239410e649eec5'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6i0347_000.markers.yaml, hash: 'sha256:b64ac43290df7c005feb38c0fa52d77ba6ef7bdac9038147c43a224ee34b0ea9'}
+  - {seq: 0, role: markers, filename: assets/KR6i0347_000.markers.yaml, hash: 'sha256:45ed2bf373794f2a623748465c6a28d0018439759cc115374d500bf26156ff34'}
   - {seq: 1, role: markers, filename: assets/KR6i0347_001.markers.yaml, hash: 'sha256:5f8f98cc9028c11b6c4f66fa70aee27184671417d6473a2885d14f13d7a9e1fd'}
   - {seq: 2, role: markers, filename: assets/KR6i0347_002.markers.yaml, hash: 'sha256:07028fdc1cb0249adeec67cec764e929596560cb484a32264d282654898fd61c'}
   - {seq: 3, role: markers, filename: assets/KR6i0347_003.markers.yaml, hash: 'sha256:9be5194cb711e73825f872eab282111535191dfdd3fdafa6351a9aef74b272c7'}
@@ -45,7 +45,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6i0347_X_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: No. 330-A 楞伽宗通緣起
@@ -55,7 +55,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6i0347_X_000-mulu-2
     span:
-    - front
+    - body
     - 694
     - 694
   label: No. 330-B 楞伽宗通題辭
@@ -211,7 +211,7 @@ table_of_contents:
   label: No. 330-C 楞伽宗通後序
   type: mulu
   level: 1
-hash: sha256:4d8f63bee8d631def522eb45033e57f1f49afc20b4474d3f08f52b89ee54bf6c
+hash: sha256:6dcbdbfdb51915a8c4bca00bfad136fa022c1e2e83ade384494c1c71eeb92bcd
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20

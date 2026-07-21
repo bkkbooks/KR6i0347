@@ -19,7 +19,7 @@ metadata:
     short: X
 assets:
   parts:
-  - {seq: 0, filename: KR6i0347_000-X.yaml, hash: 'sha256:81c43ed5388e913705060a5f1d12d1aa6297cb61af235eef6478a060698a9301'}
+  - {seq: 0, filename: KR6i0347_000-X.yaml, hash: 'sha256:01818be257b330b33ab33ef9aa4c76b929ebdd6d3ff607e4fe57a93d8de5b83a'}
   - {seq: 1, filename: KR6i0347_001-X.yaml, hash: 'sha256:f39758597d4199980fd2481956cbd93815aca6681c7b0161497e69c23d6ffdc7'}
   - {seq: 2, filename: KR6i0347_002-X.yaml, hash: 'sha256:7edf83fd2d29dbcf9bc258569dc3062b816066c4ba02259f9aedad60d154d355'}
   - {seq: 3, filename: KR6i0347_003-X.yaml, hash: 'sha256:33f92ea1bd5a92ea49e397feb078011a571e2594392e62807a802f4d1cdf6d66'}
@@ -29,7 +29,7 @@ assets:
   - {seq: 7, filename: KR6i0347_007-X.yaml, hash: 'sha256:bc81848d908eb9877d0cfa7413447c431f976992c7e0ff71109d5001d73b403c'}
   - {seq: 8, filename: KR6i0347_008-X.yaml, hash: 'sha256:17561ca47b1fc93c6c9c8439ee1445d2bee748eecc97564e5b3ef1b440818972'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6i0347_000-X.markers.yaml, hash: 'sha256:bed2ae1107f8a2bdcc5912b8fd4c9a918ff6b50dcedff7e283e11e2fbc0d2160'}
+  - {seq: 0, role: markers, filename: assets/KR6i0347_000-X.markers.yaml, hash: 'sha256:8e480a56488bcf6c658312f9ace99523c77406be3553080bb08aae13fdf4f2c7'}
   - {seq: 1, role: markers, filename: assets/KR6i0347_001-X.markers.yaml, hash: 'sha256:2790a9e124321fb8c42a081d7cc2fce41e20254477cbf69234c912c1c0a1edab'}
   - {seq: 2, role: markers, filename: assets/KR6i0347_002-X.markers.yaml, hash: 'sha256:38cea4acf6894e68cee01efb21dac0b7eae47f41c7da05b25ae3d9ab52e171dc'}
   - {seq: 3, role: markers, filename: assets/KR6i0347_003-X.markers.yaml, hash: 'sha256:795e1900158d909e79fd4895169935954a534e0b61779dd22984464d777a87d9'}
@@ -43,7 +43,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6i0347_X_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: No. 330-A 楞伽宗通緣起
@@ -53,7 +53,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6i0347_X_000-mulu-2
     span:
-    - front
+    - body
     - 694
     - 694
   label: No. 330-B 楞伽宗通題辭
@@ -209,4 +209,4 @@ table_of_contents:
   label: No. 330-C 楞伽宗通後序
   type: mulu
   level: 1
-hash: sha256:c10f39870634d9aba80291e7b6bbe8b71eb07b50b60319c074ef8bec740b8163
+hash: sha256:a4e4af8ef5f1f1cc75f9e5f0667ea2b12ba2f4efe58812f3fe7def0e9a5aa6aa
